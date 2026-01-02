@@ -2,6 +2,10 @@
 
 A production-level Machine Learning project for predicting heart disease using clinical parameters. This project implements a complete ML pipeline with data preprocessing, model training, evaluation, and a user-friendly Streamlit web application.
 
+Links:
+Streamlit: https://sayedfaisalshah12-cardioguardian-app-xvau59.streamlit.app/
+HuggingFace: https://huggingface.co/spaces/Sayed-Shah/CardioGuardian
+
 ## 🎯 Project Overview
 
 CardioGuardian is a comprehensive ML system that:
