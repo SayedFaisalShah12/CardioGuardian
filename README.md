@@ -15,6 +15,10 @@ CardioGuardian is a comprehensive ML system that:
 - Saves the best model for production use
 - Offers an interactive web interface for predictions
 
+Links:  
+Streamlit: https://sayedfaisalshah12-cardioguardian-app-xvau59.streamlit.app/  
+HuggingFace: https://huggingface.co/spaces/Sayed-Shah/CardioGuardian
+
 ## 📁 Project Structure
 
 ```
